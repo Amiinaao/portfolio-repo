@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(51, 51, 51)!important;
+    padding: 0px;
+  }
+  
+  .header-button {
+    color: white;
+    font-size: 0.875rem;
+    text-transform: none;
+    margin-right: 10px;
+  }
+  
+  /* src/components/Content.css */
+.content {
+    background-color: #1E1E1E!important;
+    color: #FFFFFF; /* Adjust text color to be visible on dark background */
+    min-height: 100vh; /* Ensures the content fills the viewport */
+    padding: 16px; /* Optional padding for spacing */
+    box-sizing: border-box;
+  }
+
+  
